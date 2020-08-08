@@ -1,0 +1,17 @@
+Задание 1 
+---
+
+Задание 2
+var goodsInBasket =[]
+for (var i=0; i<goodsInBasket.length; i++) {
+    console.log (goodsInBasket[i])
+}
+
+
+Задание 3
+function countBasketPrice (a, b, c) {
+    return a+b+c;
+}
+
+Задание 4
+for (var i=0; i<9; i++) {}
